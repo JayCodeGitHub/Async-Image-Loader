@@ -1,3 +1,3 @@
-# Instagram Clone
+# Async Image Loader
 
-A simple instagram clone that fetching data async from the api
+A simple Async Image Loader that loads images as the page loads
