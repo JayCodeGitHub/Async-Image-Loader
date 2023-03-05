@@ -9,8 +9,8 @@ body {
 }
 main {
     height: 100%;
-    width: 30%;
     min-height: 100vh;
+    width: 100%;
     box-sizing: border-box;
     margin: auto;
     padding: 10px;
@@ -20,4 +20,10 @@ main {
 img {
     width: 100%;
     margin: 20% 0;
+}
+
+@media (min-width: 1024px) {
+    main {
+        width: 30%;
+    }
 }
